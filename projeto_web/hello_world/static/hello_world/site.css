@@ -1,0 +1,38 @@
+.destaque{
+    font-weight: 700;
+    color: steelblue;
+}
+
+.navbar{
+    backgroubd-color: lightslategrey;
+    font-size: 1em;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: aliceblue;
+    padding: 5px;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.navbar-home{
+    font-size: 1.2em;
+}
+
+.navbar-item{
+    font-size: 1.1em;
+}
+
+.body-content{
+    padding: 5px;
+    font-family: 'Arial', 'Helvetica', 'sans-serif'';
+}
+
+input[name=mensagem] {
+    width: 75%;
+}
+
+.message_list th, td{
+    text-align: left;
+    padding-right: 15px;
+}
